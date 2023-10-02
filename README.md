@@ -14,4 +14,3 @@ Bikeshare.py and data files were used
 
 ### Credits
 Udacity project etc. 
-
